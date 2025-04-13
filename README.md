@@ -1,7 +1,7 @@
 # 💻 Welcome to My GitHub Profile!
 
 Hello there! 👋 I'm Ahmed Elkhodary, a **3rd-year Computer Engineering student** with a passion for solving real-world problems through technology. I’m on a journey to master new skills, build meaningful projects, and land an internship at a top-tier company like Microsoft or a FAANG company. 🚀
-
+View my resume: https://aucegypt0-my.sharepoint.com/:b:/g/personal/aae121_aucegypt_edu/EYYPKOID8cpOvHXjP64F45MBESCFBaXow4A9Z6dLNAAosQ?e=3hOUsG
 ---
 
 ## 🌟 About Me
